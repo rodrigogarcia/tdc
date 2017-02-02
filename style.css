@@ -6,4 +6,5 @@ body{
 
 a {
 	color: lime;
+	margin-bottom: 1px solid lime;
 }
